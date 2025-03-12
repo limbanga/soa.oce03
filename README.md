@@ -1,5 +1,9 @@
 # SOA - On-class Exercise 3  
 
+```sh
+Huynh Thanh Liem - 52100813
+```
+
 ## Description  
 
 This is a FastAPI application built to practice API exercises involving various parameter types, lists, and nested models. The application includes three main exercises:  
